@@ -8,4 +8,6 @@
 4. Create a new div tag change the background of this div to black using the property background-color.  Change the font color of this div to white using the property color.
   Inside this div tag use an appropriate heading using the <h{}> with Morning Routine as the label. Then create an appropriate list using either <ol> or <ul> and <li> of the   steps you take to get ready for school.  You need a minimum of 4 items.
   
+  BONUS: get a bonus 5 points by using the properties grid and grid-template-columns to make the two grids above side by side each taking up 50% of the available screen
+  
   This should all be on the same document. Push your document to the repository.
