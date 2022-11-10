@@ -1,0 +1,42 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.calculator  {
+  background-color: saddlebrown;
+  height: 80%;
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  
+}
+input{
+  width: 90%;
+  font-size: 2em;
+  padding: 1%;
+  direction: rtl;
+}
+.buttons  {
+  width: 22%;
+  height: 12%;
+  font-size: 1.5em;
+  margin-top: 5%;
+  position: relative;
+}
+.buttons  {
+  width: 22%;
+  height: 12%;
+  font-size: 1.5em;
+  margin-top: 5%;
+  position: relative;
+}
+.equal  {
+  width: 22%;
+  height: 12%;
+  font-size: 1.5em;
+  margin-top: 5%;
+  position: absolute; 
+  right: 0;
+}
+
